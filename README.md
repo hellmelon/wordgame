@@ -29,6 +29,17 @@ A fun word puzzle game built with **React** and **Redux**! Guess the target word
 ```bash
 git clone https://github.com/hellmelon/wordgame.git
 cd nerdle
+```
+
+### 2️⃣ **Install dependencies**
+```bash
+npm install
+```
+
+### 3️⃣ **Run the game**
+```bash
+npm start
+```
 
 ---
 
