@@ -29,3 +29,19 @@ A fun word puzzle game built with **React** and **Redux**! Guess the target word
 ```bash
 git clone https://github.com/hellmelon/nerdle.git
 cd nerdle
+
+---
+
+## 👷🏽‍♀️ **Structure**
+📂 nerdle
+ ├── 📂 src
+ │   ├── 📂 components
+ │   │   ├── 🏗️ Board.tsx     # Displays the guessed words
+ │   │   ├── ⌨️ Keyboard.tsx  # Handles user input
+ │   │   ├── 🎨 funcs.ts      # Game logic for word checks
+ │   ├── 📂 store
+ │   │   ├── 🔄 store.ts      # Redux store setup
+ │   │   ├── 📜 wordlist.json # Valid words
+ ├── 📜 README.md
+ ├── 📜 package.json
+
