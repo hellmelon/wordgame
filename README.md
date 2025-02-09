@@ -44,6 +44,7 @@ npm start
 ---
 
 ## 👷🏽‍♀️ **Structure**
+```
 📂 nerdle
  ├── 📂 src
  │   ├── 📂 components
@@ -55,4 +56,5 @@ npm start
  │   │   ├── 📜 wordlist.json # Valid words
  ├── 📜 README.md
  ├── 📜 package.json
+```
 
