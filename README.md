@@ -52,7 +52,7 @@ npm start
  │   │   ├── ⌨️ Keyboard.tsx  # Handles user input
  │   │   ├── 🎨 funcs.ts      # Game logic for word checks
  │   ├── 📂 store
- │   │   ├── 🔄 store.ts      # Redux store setup
+ │   │   ├── 🔄 index.ts      # Redux store setup
  │   │   ├── 📜 wordlist.json # Valid words
  ├── 📜 README.md
  ├── 📜 package.json
