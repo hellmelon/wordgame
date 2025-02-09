@@ -1,4 +1,4 @@
-# 🎮 Nerdle - A Wordle Clone
+# 🎮 Word Game - A Wordle Clone
 
 A fun word puzzle game built with **React** and **Redux**! Guess the target word in 6 attempts. Each letter gets colored to show how close you are to the answer!
 
@@ -27,7 +27,7 @@ A fun word puzzle game built with **React** and **Redux**! Guess the target word
 ## 🛠️ **Installation**
 ### 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/hellmelon/nerdle.git
+git clone https://github.com/hellmelon/wordgame.git
 cd nerdle
 
 ---
