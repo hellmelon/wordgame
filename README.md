@@ -5,7 +5,7 @@ A fun word puzzle game built with **React** and **Redux**! Guess the target word
 ---
 
 ## 🚀 **Features**
-- 🎨 **Color-coded hints** (Green, Yellow, Gray)
+- 🎨 **Color-coded hints** (Green, Yellow, Grey)
 - 🖥️ **Keyboard input support**
 - 🔄 **Automatic state updates with Redux**
 - 📱 **Responsive UI**
@@ -19,7 +19,7 @@ A fun word puzzle game built with **React** and **Redux**! Guess the target word
 3. Letters will turn:
    - 🟩 **Green** → Correct letter, correct position.
    - 🟨 **Yellow** → Correct letter, wrong position.
-   - ⬜ **Gray** → Letter is not in the word.
+   - ⬜ **Grey** → Letter is not in the word.
 4. Keep guessing until you find the **target word** or **run out of attempts**.
 
 ---
